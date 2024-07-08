@@ -1,17 +1,56 @@
-## Hi there 👋
+<pre>
+ <p align="center">
+ ██████╗██╗  ██╗ █████╗ ██╗  ██╗
+██╔════╝██║  ██║██╔══██╗██║ ██╔╝
+██║     ███████║███████║█████╔╝ 
+██║     ██╔══██║██╔══██║██╔═██╗ 
+╚██████╗██║  ██║██║  ██║██║  ██╗
+ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+say it right or ask how pls, i can't take it anymore!
+ </p>
+</pre>
+---
+```yaml
+name: "Chak Yeth"
 
- ![Snake animation](https://github.com/chakyeth/chakyeth/blob/output/github-contribution-grid-snake-dark.svg)
-<!--
-**chakyeth/chakyeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+located_in: "the World is my oyster"
 
-Here are some ideas to get you started:
+education: "Univ. of Massachusetts Lowell: BS in Computer Science"
+  
+skills: 
+  {
+    Backend: [ 
+      {"Python": ["Django", "Flask", "FastAPI"]}, 
+      {"JavaScript": ["Node.js", "Typescript"]}, 
+      {"Rust": ["Axum", "SQLx", "Utoipa"]},
+      "Microservices (design + implementation)", 
+      "REST APIs"
+    ],
+    Frontend: [
+      {"JavaScript": ["ReactJS", "Redux", "TypeScript", "Angular", "RxJS", "Storybook"]},
+      "HTML, CSS, SCSS"
+    ],
+    Database: [
+      {"SQL": ["PostgreSQL", "MySQL"]},
+      {"NoSQL": "MongoDB"}
+    ],
+    Game/Mobile Development: [
+      {"C#": "Unity"},
+      "Java (Android)",
+      {"JavaScript": "ReactNative"}
+    ]
+  }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+hobbies: ["Snowboarding", "Motorcycles", "Traveling", "Biking", "Video Games", "Spending Money"]
+
+pets: 
+  {
+    "Cat" : "Fish",
+    "Dog" : "Egg"
+  }
+```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chakyeth/chakyeth/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/chakyeth/chakyeth/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/chakyeth/chakyeth/blob/output/github-contribution-grid-snake.svg" />
+</picture>
