@@ -36,7 +36,10 @@ skills: {
   infrastructure: ["docker", "ci/cd"],
 }
 
-hobbies: ["snowboarding", "motorcycles", "traveling", "biking", "spending money", "shopping", keyboards", "videogames"]
+hobbies: [
+  "snowboarding", "motorcycles", "traveling", "biking",
+  "spending money", "shopping", keyboards", "videogames"
+]
 
 pets: {
   cat: "fish",
