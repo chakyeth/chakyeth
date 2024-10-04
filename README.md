@@ -15,39 +15,33 @@ name: "Chak Yeth"
 
 located_in: "the World is my oyster"
 
-education: "Univ. of Massachusetts Lowell: BS in Computer Science"
-  
-skills: 
-  {
-    Backend: [ 
-      {"Python": ["Django", "Flask", "FastAPI"]}, 
-      {"JavaScript": ["Node.js", "Typescript"]}, 
-      {"Rust": ["Axum", "SQLx", "Utoipa"]},
-      "Microservices (design + implementation)", 
-      "REST APIs"
-    ],
-    Frontend: [
-      {"JavaScript": ["ReactJS", "Redux", "TypeScript", "Angular", "RxJS", "Storybook"]},
-      "HTML, CSS, SCSS"
-    ],
-    Database: [
-      {"SQL": ["PostgreSQL", "MySQL"]},
-      {"NoSQL": "MongoDB"}
-    ],
-    Game/Mobile Development: [
-      {"C#": "Unity"},
-      "Java (Android)",
-      {"JavaScript": "ReactNative"}
-    ]
-  }
+skills: {
+  back-end: {
+    python: ["django", "flask", "fastapi"],
+    javascript: ["nodejs", "typescript", "express"],
+    rust: ["axum", "sqlx", "utoipa"],
+  },
+  front-end: {
+    javascript: ["reactjs", "redux", "angular", "rxjs", "storybook"],
+    web: ["html", "css"],
+  },
+  db: {
+    sql: ["postgres", "mysql"],
+    nosql: "mongodb",
+  },
+  game-dev/mobile: {
+    c-sharp: "unity",
+    javascript: "react native",
+  },
+  infrastructure: ["docker", "ci/cd"],
+}
 
-hobbies: ["Snowboarding", "Motorcycles", "Traveling", "Biking", "Video Games", "Spending Money"]
+hobbies: ["snowboarding", "motorcycles", "traveling", "biking", "spending money", "shopping", keyboards", "videogames"]
 
-pets: 
-  {
-    "Cat" : "Fish",
-    "Dog" : "Egg"
-  }
+pets: {
+  cat: "fish",
+  dog: "egg",
+}
 ```
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/chakyeth/chakyeth/blob/output/github-contribution-grid-snake-dark.svg" />
