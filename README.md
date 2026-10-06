@@ -11,9 +11,7 @@ say it right or ask how pls, i can't take it anymore!
 </pre>
 ---
 ```yaml
-name: "Chak Yeth"
-
-located_in: "the World is my oyster"
+name: "Chak"
 
 skills: {
   back-end: {
